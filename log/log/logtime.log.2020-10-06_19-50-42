@@ -1,0 +1,2 @@
+2020-10-06 19:50:42,664 INFO [root] [log_logging.py (<module>:39] - info信息被执行
+2020-10-06 19:50:42,664 ERROR [root] [log_logging.py (<module>:40] - error信息被执行
